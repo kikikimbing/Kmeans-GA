@@ -8,7 +8,9 @@ I use genetic algorithm to find the best centroid on K-Means Clustering. The dat
 Sadly i hard code the algorithm :( because of my laziness, but i would like to re-create this source code so it can be use for any data.
 Thanks for coming :D
 
-==============================================================================================================================
+==================================================================================================
+
+
 Implementasi Algoritma Genetika pada K-Means Clustering.
 
 Project ini adalah bagian dari tugas besar saya di kuliah Algoritma Genetika semester ini.
